@@ -1,5 +1,5 @@
 ALPINE_TAG=3.19.1
-VERSION=0.0.1
+VERSION=0.0.2
 
 TAG = jgodoy/minipool\:$(VERSION)-alpine-$(ALPINE_TAG)
 
